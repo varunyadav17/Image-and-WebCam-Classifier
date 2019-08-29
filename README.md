@@ -1,5 +1,5 @@
 # Image-and-WebCam-Classifier
-Web based Image and Webcam Input classifier 
+Javascript based Image and Webcam feed classifier 
 
 To run image classifier use Index.html. Model will display the top 3 prediction values for selected image
 
